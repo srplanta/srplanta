@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srplanta
-- 👀 I’m interested in ASP.NET MVC web development 
+- 👀 I’m interested in ASP.NET web development 
 - 🌱 I’m currently learning basics of ASP.NET MVC 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
